@@ -1,6 +1,6 @@
 # Solving ML Papers
 
-## Count of Papers Solved - 1
+## Count of Papers Solved - 3
 
 ### Info
 - A project which involves my effort to understand the intuition/logic behind research papers as well as the maths involved in these papers followed by code implementations
@@ -9,8 +9,8 @@
 # CheckList
 
 - [x] A Neural Algorithm of Artistic Styles
-- [ ] ImageNet Classification with Deep Convolutional Neural Networks
-- [ ] Very Deep Convolutional Networks for large scale image recognition
+- [x] ImageNet Classification with Deep Convolutional Neural Networks
+- [x] Very Deep Convolutional Networks for large scale image recognition
 - [ ] Visualizing and Understanding Convnet by Zeiler and Fergus
 - [ ] Gradient-Based Learning Applied to Document Recognition
 - [ ] Simple and Effective Data Augmentation
